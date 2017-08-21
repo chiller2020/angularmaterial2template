@@ -1,0 +1,12 @@
+.my-container {
+ margin: 0;
+  width: 100vw;
+  height: 100vh;
+  overflow:hidden;
+}
+
+.example-fill-remaining-space {
+  
+  flex: 1 1 auto;
+}
+
